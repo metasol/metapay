@@ -1,0 +1,24 @@
+<svg
+  width="1001"
+  height="250"
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.0"
+  preserveAspectRatio="xMidYMid meet"
+>
+ <g>
+  <text
+      stroke-width="0"
+      font-style="normal"
+      font-weight="bold"
+      xml:space="preserve"
+      text-anchor="start"
+      font-family="monospace"
+      font-size="140"
+      id="svg_1"
+      y="210"
+      x="0"
+      stroke="#000"
+      fill="#0e91d8"
+    >MetaPay</text>
+ </g>
+</svg>
