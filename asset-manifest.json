@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.3eb9241a.chunk.css",
-    "main.js": "/static/js/main.90aff8d8.chunk.js",
-    "main.js.map": "/static/js/main.90aff8d8.chunk.js.map",
+    "main.js": "/static/js/main.c928cd52.chunk.js",
+    "main.js.map": "/static/js/main.c928cd52.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d84b68c6.js",
     "runtime-main.js.map": "/static/js/runtime-main.d84b68c6.js.map",
-    "static/js/2.59f1dddb.chunk.js": "/static/js/2.59f1dddb.chunk.js",
-    "static/js/2.59f1dddb.chunk.js.map": "/static/js/2.59f1dddb.chunk.js.map",
+    "static/js/2.9ae30670.chunk.js": "/static/js/2.9ae30670.chunk.js",
+    "static/js/2.9ae30670.chunk.js.map": "/static/js/2.9ae30670.chunk.js.map",
     "static/js/3.eb5c1fc4.chunk.js": "/static/js/3.eb5c1fc4.chunk.js",
     "static/js/3.eb5c1fc4.chunk.js.map": "/static/js/3.eb5c1fc4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.3eb9241a.chunk.css.map": "/static/css/main.3eb9241a.chunk.css.map",
-    "static/js/2.59f1dddb.chunk.js.LICENSE.txt": "/static/js/2.59f1dddb.chunk.js.LICENSE.txt",
+    "static/js/2.9ae30670.chunk.js.LICENSE.txt": "/static/js/2.9ae30670.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/static/media/metapay.e3563857.svg",
     "static/media/solana-logo.88dd9cd2.png": "/static/media/solana-logo.88dd9cd2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d84b68c6.js",
-    "static/js/2.59f1dddb.chunk.js",
+    "static/js/2.9ae30670.chunk.js",
     "static/css/main.3eb9241a.chunk.css",
-    "static/js/main.90aff8d8.chunk.js"
+    "static/js/main.c928cd52.chunk.js"
   ]
 }
