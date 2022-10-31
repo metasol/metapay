@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.92aed106.chunk.css",
-    "main.js": "/static/js/main.142ae0f9.chunk.js",
-    "main.js.map": "/static/js/main.142ae0f9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fcb16e97.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fcb16e97.js.map",
-    "static/js/2.e4e49f74.chunk.js": "/static/js/2.e4e49f74.chunk.js",
-    "static/js/2.e4e49f74.chunk.js.map": "/static/js/2.e4e49f74.chunk.js.map",
-    "static/js/3.c558c7e2.chunk.js": "/static/js/3.c558c7e2.chunk.js",
-    "static/js/3.c558c7e2.chunk.js.map": "/static/js/3.c558c7e2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.92aed106.chunk.css.map": "/static/css/main.92aed106.chunk.css.map",
-    "static/js/2.e4e49f74.chunk.js.LICENSE.txt": "/static/js/2.e4e49f74.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/static/media/metapay.e3563857.svg",
-    "static/media/solana-logo.88dd9cd2.png": "/static/media/solana-logo.88dd9cd2.png"
+    "main.css": "/metapay/static/css/main.4ed54b11.chunk.css",
+    "main.js": "/metapay/static/js/main.142ae0f9.chunk.js",
+    "main.js.map": "/metapay/static/js/main.142ae0f9.chunk.js.map",
+    "runtime-main.js": "/metapay/static/js/runtime-main.34315b72.js",
+    "runtime-main.js.map": "/metapay/static/js/runtime-main.34315b72.js.map",
+    "static/js/2.875d9024.chunk.js": "/metapay/static/js/2.875d9024.chunk.js",
+    "static/js/2.875d9024.chunk.js.map": "/metapay/static/js/2.875d9024.chunk.js.map",
+    "static/js/3.c558c7e2.chunk.js": "/metapay/static/js/3.c558c7e2.chunk.js",
+    "static/js/3.c558c7e2.chunk.js.map": "/metapay/static/js/3.c558c7e2.chunk.js.map",
+    "index.html": "/metapay/index.html",
+    "static/css/main.4ed54b11.chunk.css.map": "/metapay/static/css/main.4ed54b11.chunk.css.map",
+    "static/js/2.875d9024.chunk.js.LICENSE.txt": "/metapay/static/js/2.875d9024.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/metapay/static/media/metapay.e3563857.svg",
+    "static/media/solana-logo.88dd9cd2.png": "/metapay/static/media/solana-logo.88dd9cd2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcb16e97.js",
-    "static/js/2.e4e49f74.chunk.js",
-    "static/css/main.92aed106.chunk.css",
+    "static/js/runtime-main.34315b72.js",
+    "static/js/2.875d9024.chunk.js",
+    "static/css/main.4ed54b11.chunk.css",
     "static/js/main.142ae0f9.chunk.js"
   ]
 }
